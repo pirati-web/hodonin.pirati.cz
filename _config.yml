@@ -1,9 +1,9 @@
-title: Oblast Piráti
+title: Piráti Hodonín
 baseurl: 
 default_locale: "cs"
 permalink: pretty
 markdown: kramdown
-facebookurl: https://www.facebook.com/pages/Pir%C3%A1ti-Praha-6/623900784396150?fref=ts
+facebookurl: https://www.facebook.com/PiratiHodonin
 gems:
   - jekyll-sitemap
   - i18n
