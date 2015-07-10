@@ -6,10 +6,10 @@ keywords: kontakt, politika, piráti
 ---
 Kontaktní osobou ve městě Hodoníně je Petr Baláž
 
-Email: <a href="mailto:petr.balaz@pirati.cz">petr.balaz@pirati.cz</a>
+<i>Email</i>: <a href="mailto:petr.balaz@pirati.cz">petr.balaz@pirati.cz</a>
 
-<a href="http://www.facebook.com/PiratiHodonin">Facebook</a>: Česká Pirátská strana - Hodonín
+<i>Facebook:</i> <a href="http://www.facebook.com/PiratiHodonin">Česká Pirátská strana - Hodonín</a>
 
-<a href="http://www.facebook.com/pierrebalage">Facebook</a>: Petr Baláž
+<i>Facebook</i><a href="http://www.facebook.com/pierrebalage"> Petr Baláž</a>
 
-tel. kontakt: +420 723123562
+tel. kontakt: +420723123562
