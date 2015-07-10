@@ -1,13 +1,9 @@
 ---
-title: Program
+title: Pirátský program pro město Hodonín
 layout: page
 description: Základní programové teze a něco z historie pirátů.
 keywords: program, transparence, svobodný software, demokracie
 ---
-## Z historie
-
-## Pirátský Program
-
 ###a) Radnice pro občany, ne občané pro radnici
 - zasadíme se o vizuální záznam ze zastupitelstva i prostřednictvím online přenosu ze zasedání
 - zveřejníme veškeré materiály, které jsou projednávány - tzv. i materiály z jednání rady města 
