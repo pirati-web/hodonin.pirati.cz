@@ -7,7 +7,7 @@ keywords: lide, piráti, podpora
 ---
 <img src="http://www.pirati.cz/_media/lide/petr_balaz.jpg?cache=" alt="Petr Baláž" class="left" />
 
-## Petr Baláž
+##Petr Baláž
 
 *aktivní/angažovaný*
 
