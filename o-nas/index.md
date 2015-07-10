@@ -6,9 +6,8 @@ keywords: program, transparence, svobodný software, demokracie
 ---
 ## Z historie
 
-
-
 ## Pirátský Program
+
 ###a) Radnice pro občany, ne občané pro radnici
 - zasadíme se o vizuální záznam ze zastupitelstva i prostřednictvím online přenosu ze zasedání
 - zveřejníme veškeré materiály, které jsou projednávány - tzv. i materiály z jednání rady města 
@@ -25,12 +24,14 @@ keywords: program, transparence, svobodný software, demokracie
 - podpoříme internetové aukce a další moderní nástroje pro veřejné zakázky
 -zavedeme automatické zveřejňování informací obce a závislých organizací
 - zásady územního rozvoje a související územní plány budeme graficky prezentovat na webu
+
 ###c) veřejné služby slouží občanům
 - veřejné služby tu nejsou pro zisk, ale v zájmu občanů
 - stavíme se proti nadbytečnému sledování občanů v případech, kde to není opodstatněné
 - Piráti podporují svobodnou volbu způsobu přepravy. Proto je potřeba, aby se s cyklisty a chodci počítalo už při plánování dopravní sítě a staveb
 - je potřeba udržovat kulturní a přírodní památky, které jsou bohatstvím obce, zpřístupňovat je veřejnosti a informovat o nich
 - budeme podporovat cestovní ruch
+
 ###d) moderní technologie Hodonínu
 - zavedeme elektronické systémy zajištující komunikaci a aktivní zapojení široké veřejnosti ve správě obce
 - zpřístupníme úřady občanům, chceme zavést bezplatný elektronický podpis pro všechny občany
@@ -38,6 +39,7 @@ keywords: program, transparence, svobodný software, demokracie
 - zajistíme přechod úřadů na svobodný software kdekoliv je to možné
 - zřídíme pokrytí Wi-Fi signálem ve veřejných budovách a na naměstích
 - zastavíme samoúčelné a předražené projekty v oblasti informačních technologií.
+
 ###e) Investice do vzdělávání a kultury
 - budeme podporovat zájmové krouţky a kurzy dostupné kaţdému, a to pro všechny věkové skupiny obyvatel
 - chceme významně podporovat městskou knihovnu, hodonínskou galerii "Dům umění" a Masarykovo muzeum
@@ -45,6 +47,7 @@ keywords: program, transparence, svobodný software, demokracie
 pro volnočasové aktivity
 - v oblasti kultury a sportu upřednostňujeme podporu amatérských organizací před komerčními
 - upřednostňujeme materiální podporu před finanční
+
 ###f) Ne sociálnímu vyloučení a ano zlepšení zdravotních služeb
 
 - jsme pro to, aby se při plánování zdravotní a sociální péče obce brala v úvahu vedle domovů důchodců pomocné pečovatelské služby a vedle nemocniční péče i domácí ošetřování, kdykoliv mají lidé o takové služby zájem
