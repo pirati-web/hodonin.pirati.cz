@@ -5,7 +5,7 @@ style: portrets
 description: Základní informace o jednotlivých pirátech. Přidáš se k nám?
 keywords: lide, piráti, podpora
 ---
-<img src=/static/media/GRAFIKA-moje 2014.jpg alt=Petr Baláž" class="left" />
+<img src="http://www.pirati.cz/_detail/lide/petr_balaz.jpg?id=lide%3Apetr_balaz alt=Petr Baláž" class="left" />
 
 ## Další odvážlivec, pirát, co má kuráž ?
 
