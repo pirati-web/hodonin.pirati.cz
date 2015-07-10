@@ -6,4 +6,4 @@ keywords: kontakt, politika, piráti
 ---
 Email: petr.balaz@pirati.cz
 
-<img src="soubory/GRAFIKA-facebook.png" alt="FB ico">Facebook:
+<img src="static/media/ GRAFIKA-facebook.png" alt="FB ico">Facebook:
