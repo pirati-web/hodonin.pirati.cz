@@ -1,5 +1,5 @@
 ---
-category:  CLANKY
+category: CLANKY
 tags: 
 title: Zneužití Hodonínských listů
 description: politika, radnice, objektivita
